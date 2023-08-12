@@ -39,11 +39,6 @@
 <a target="_blank" href="https://imageupload.io/lLvV6vZnrejZEA1"><img  src="https://imageupload.io/ib/jLedWcsU53U6iaS_1691842865.png" alt="Untitled9.png"/></a>
 <br>
 <br>
-<h6>Click on start button</h6>
-<p>open visual studio solution</p>
-<img>
-<br>
-<br>
 <h6>Here we go....</h6>
 <p>WebApp</p>
 <a target="_blank" href="https://imageupload.io/tL4HtzN5nVtlysN"><img  src="https://imageupload.io/ib/akwCPXPOnjLMEgP_1691842887.png" alt="Untitled7.png"/></a>

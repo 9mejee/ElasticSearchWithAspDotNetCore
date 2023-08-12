@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zBpsrD86cnnBhdzTB4kWSQG1tisZomJ4qPHao8oaPTA=",
+  "Source": "ElasticSearchWithAspDotNetCoreWebApi",
+  "BasePath": "_content/ElasticSearchWithAspDotNetCoreWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

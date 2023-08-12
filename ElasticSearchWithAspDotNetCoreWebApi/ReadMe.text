@@ -1,0 +1,7 @@
+Open package manager console
+
+PM > Install-Package NEST -Version 7.17.5
+
+Why NEST and not Elasticsearch.NET. Elasticsearch.NET is a low-level,dependency-free client that has no opinions about how you build and represent requests and responses. 
+NEST is a high-level client that comes with the advantage of having mapped all the requests and responses. 
+It maps strongly typed query DSL with Elasticsearch query DSL. NEST is internally built on top of Elasticsearch.NET.
